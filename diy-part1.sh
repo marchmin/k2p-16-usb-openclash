@@ -15,7 +15,7 @@
 
 #git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 #git clone https://github.com/marchmin/openwrt-printing-packages.git package/printing
-git clone https://github.com/marchmin/lede-cups.git.git package/cups
+git clone https://github.com/marchmin/lede-cups.git.git package/printing
 
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
