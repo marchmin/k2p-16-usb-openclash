@@ -21,4 +21,5 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #echo "src-git printing https://github.com/marchmin/lede-cups.git" >> feeds.conf.default
-echo "src-git printing https://github.com/marchmin/openwrt-printing-packages.git" >> feeds.conf.default
+#echo "src-git printing https://github.com/marchmin/openwrt-printing-packages.git" >> feeds.conf.default
+echo "src-git cups https://github.com/TheMMcOfficial/lede-cups.git" >> feeds.conf.default
