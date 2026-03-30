@@ -12,5 +12,5 @@
 
 # Modify default IP
 sed -i 's/192.168.1.1/192.168.12.1/g' package/base-files/files/bin/config_generate
-./scripts/feeds install bzip2
+./scripts/feeds install libbz2
 ./scripts/feeds install -a -p printing -d m
